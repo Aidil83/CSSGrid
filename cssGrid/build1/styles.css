@@ -85,19 +85,23 @@ nav {
 }
 
 .bg2 {
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1082/?');
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1081/?');
 }
 
 .bg3 {
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1083/?')
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1081/?')
 }
 
 .bg4 {
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1084/?')
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1081/?')
 }
 
 .bg5 {
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1800x1085/?')
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1081/?')
+}
+
+.bg6 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1081/?')
 }
 
 footer {
