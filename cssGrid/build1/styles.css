@@ -52,6 +52,13 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+  font-size: 3rem;
+  font-weight: bold;
 }
 
 .grid > div:nth-of-type(1) {
@@ -71,6 +78,26 @@ nav {
 }
 .grid > div:nth-of-type(6) {
   grid-column: 1 / 13;
+}
+
+.bg1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1081/?');
+}
+
+.bg2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1082/?');
+}
+
+.bg3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1083/?')
+}
+
+.bg4 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1920x1084/?')
+}
+
+.bg5 {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://source.unsplash.com/1800x1085/?')
 }
 
 footer {
